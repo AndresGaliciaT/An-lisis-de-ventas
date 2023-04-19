@@ -1,0 +1,2 @@
+# Análisis de ventas
+En este proyecto práctico, se realizó un análisis de datos de una tienda de tecnología con el objetivo de obtener información valiosa sobre el rendimiento y la eficacia de la tienda. Se utilizaron herramientas de análisis de datos para explorar y visualizar los datos, y en base a la información obtenida tomar decisiones.
